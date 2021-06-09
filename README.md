@@ -1,4 +1,4 @@
-# Computer Architecture
+# Computational Architecture
 
 "Computer architecture represents the programming model of the computer, including the instruction set and the definition of register file, memory, and so on. Over time, the concept of computer architecture has evolved to include both the functional specification and the hardware implementation. At the system level, it defines the processor-level building blocks, such as processors and memories, and the interconnection among the building blocks."
 
